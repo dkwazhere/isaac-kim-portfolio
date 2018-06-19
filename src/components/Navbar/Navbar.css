@@ -3,11 +3,10 @@
     text-decoration: none;
 }
 
-
-a {
-    color:white;  
-    background-color: none;  
+a:visited {
+color: white;
 }
+
 
 li {
     list-style-type:none;
@@ -20,5 +19,5 @@ li {
 
 .navbar-inverse {
     background-color:grey;
-    border-color:grey;  
+    border-color:grey;
 }
