@@ -1,0 +1,15 @@
+.logo-picture {
+    width: 30%;
+    height: 25%;
+    padding-top: 60px; 
+    align-content: center;  
+}
+
+.name {
+    text-align: center;
+    font-size: 60px;
+}
+
+.job {
+    font-size: 25px;
+}

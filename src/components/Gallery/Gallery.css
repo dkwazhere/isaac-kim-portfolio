@@ -1,0 +1,23 @@
+.box {
+    border: 1px solid black;
+    width: 800px;
+    height:200px;
+    float:left;
+    margin-left: 28%;
+    background-color: black;
+}
+
+.academic-projects {
+    margin-top: 24%;
+    margin-right: 32%;
+}
+
+.freelance-projects {
+    margin-right: 32%;
+    margin-top: 20%;
+}
+
+p {
+    color:white;
+    font-size: 20px;
+}
