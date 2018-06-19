@@ -3,3 +3,8 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+@font-face {
+    font-family: 'ITC';
+    src: local('MyFont'), url(./assets/fonts/ITCAvantGardeStd-Bk.otf) format('otf');
+}
