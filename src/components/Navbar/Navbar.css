@@ -22,3 +22,9 @@ li {
     background-color:grey;
     border-color:grey;
 }
+
+.navbar-main {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}

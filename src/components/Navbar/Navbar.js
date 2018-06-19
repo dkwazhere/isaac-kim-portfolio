@@ -4,6 +4,7 @@ import { Navbar, Nav,NavItem,MenuItem,NavDropdown} from "react-bootstrap";
 import image from '../../images/whitelogo.png';
 const Header = () => {
   return (
+    <div className="navbar-main">
     <Navbar inverse>
       <NavItem className="link" eventKey={1} href="#">
         Home
@@ -23,6 +24,7 @@ const Header = () => {
         Contact
       </NavItem>
     </Navbar>
+    </div>
   );
 };
 
