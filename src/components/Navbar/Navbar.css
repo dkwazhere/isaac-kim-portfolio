@@ -1,0 +1,24 @@
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+
+a {
+    color:white;  
+    background-color: none;  
+}
+
+li {
+    list-style-type:none;
+}
+
+.logo-img {
+    width: 35px;
+    height: 30px;
+}
+
+.navbar-inverse {
+    background-color:grey;
+    border-color:grey;  
+}
