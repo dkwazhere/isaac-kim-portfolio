@@ -1,20 +1,18 @@
 .box {
     border: 1px solid black;
-    width: 800px;
+    width: 600px;
     height:200px;
-    float:left;
     margin-left: 28%;
     background-color: black;
+    padding-bottom: 25px;
 }
 
 .academic-projects {
-    margin-top: 24%;
-    margin-right: 32%;
+    margin-top: 30%;
 }
 
 .freelance-projects {
-    margin-right: 32%;
-    margin-top: 20%;
+    margin-top: 5%;
 }
 
 p {

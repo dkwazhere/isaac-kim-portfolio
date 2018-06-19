@@ -1,0 +1,19 @@
+.aboutme {
+    padding-top: 5%;
+}
+
+.contact-bottom {
+    padding-bottom: 7%;
+}
+
+
+.contact-pic img {
+    width: 250px;
+    height: 300px;
+    float: left;
+    margin-left: 28%;
+}
+
+html {
+    padding-bottom: 5%;
+}

@@ -5,6 +5,8 @@ import Header from './components/Navbar';
 import Aboutme from './components/Aboutme';
 import Topintro from './components/Topintro';
 import Gallery from './components/Gallery';
+import Contact from './components/Contact';
+
 class App extends Component {
   render() {
     return (
@@ -13,6 +15,7 @@ class App extends Component {
         <Topintro />
         <Aboutme />
         <Gallery />
+        <Contact />
       </div>
     );
   }
