@@ -6,7 +6,7 @@ const Topintro = () => {
     return (
         <div>
             <div className="about-me">
-            <h1 className="name">Isacc Kim</h1>
+            <h1 className="name">Isaac Kim</h1>
             <h2 className="job">Graphic Designer</h2>
             </div>
             <div>
