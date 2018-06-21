@@ -1,7 +1,8 @@
 import React from "react";
 import './Navbar.css';
-import { Navbar, Nav,NavItem,MenuItem,NavDropdown} from "react-bootstrap";
+import { Navbar, Nav, NavItem, MenuItem, NavDropdown} from "react-bootstrap";
 import image from '../../images/whitelogo.png';
+
 const Header = () => {
   return (
     <div className="navbar-main">

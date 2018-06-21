@@ -1,18 +1,18 @@
 .aboutme-pic img {
     width: 250px;
     height: 300px;
-    float: left;
-    margin-left: 28%;
 }
 
-.aboutme-text {
-    width: 250px;
-    height: 300px;
-    float: right;
-    margin-right: 28%;
-    font: 'ITC';
+.aboutme-pic {
+    padding-left: 33%;
+    padding-top: 3%;
 }
 
-.header-three {
-    padding-bottom: 5%;
+.aboutme-info {
+    padding-left: 33%;
+}
+
+.aboutme-name {
+    padding-left: 33%;
+    padding-top: 3%;
 }
