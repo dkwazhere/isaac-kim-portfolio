@@ -1,6 +1,5 @@
-
-
 .logo-picture {
+    padding-top: 5%;
     width: 400px;
     height: 420px;
     align-items: center;
@@ -8,9 +7,4 @@
 
 .about-me {
     text-align: center;
-}
-
-.picture-container {
-    padding-left: 30%;
-    padding-top: 2%;
 }
