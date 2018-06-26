@@ -17,7 +17,7 @@ const Header = () => {
         <img className="logo-img" src={image}></img>
       </NavItem>
 
-      <NavItem className="link" eventKey={4} href="#">
+      <NavItem className="link" eventKey={4} href="/gallery">
         Gallery
       </NavItem>
 

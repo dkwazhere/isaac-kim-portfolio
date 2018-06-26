@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+} 
+
+ h3 {
+    text-align: center;
+} 
+
+img, .gallery-images {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    color: black;
+}
+
+
+#marlboro {
+    height: 350px;
+    width: 300px;
+    display: flex;
+    margin-left: 83px;
+    margin-right: auto;
+} 
+
+#eazye {
+    height: 350px;
+    width: 260px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tupac {
+    height: 350px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#VL {
+    height: 350px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#red-crenshaw {
+    height: 350px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#crenshaw {
+    height: 350px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 100px;
+}
