@@ -16,6 +16,9 @@ p {
     color: black;
 }
 
+.description {
+    padding-top: 100px;
+}
 
 #marlboro {
     height: 350px;
@@ -55,8 +58,72 @@ p {
 
 #crenshaw {
     height: 350px;
-    width: 600px;
+    width: 430px;
+    margin-left: -65px;
+    margin-right: auto;
+}
+
+#jep {
+    height:250px;
+    width:300px;
     margin-left: auto;
     margin-right: auto;
-    padding-right: 100px;
+    padding-top: 25px;
+}
+
+#church {
+    height: 350px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#DJ {
+    height: 200px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#via {
+    height: 225px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#front-bc {
+    height: 325px;
+    width: 475px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#back-bc {
+    height: 225px;
+    width: 425px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#veins {
+    height: 225px;
+    width:375px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#veinsheart {
+    height: 225px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#veinsshirt {
+    height: 225px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
 }
