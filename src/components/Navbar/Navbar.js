@@ -7,10 +7,10 @@ const Header = () => {
   return (
     <div className="navbar-main">
     <Navbar inverse>
-      <NavItem className="link" eventKey={1} href="#">
+      <NavItem className="link" eventKey={1} href="/">
         Home
       </NavItem>
-      <NavItem className="link" eventKey={2} href="#">
+      <NavItem className="link" eventKey={2} href="/about">
         About
       </NavItem>
       <NavItem eventKey={3} href="#">
@@ -21,7 +21,7 @@ const Header = () => {
         Gallery
       </NavItem>
 
-      <NavItem className="link" eventKey={5} href="#">
+      <NavItem className="link" eventKey={5} href="/contact">
         Contact
       </NavItem>
     </Navbar>
