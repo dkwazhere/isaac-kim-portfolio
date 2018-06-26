@@ -87,6 +87,9 @@ const Gallerypage = () => {
           <p className="description"> Nipsey Hussle Crenshaw Masked Poster</p>
         </Col>
       </Row>
+      <Row>
+        <h3 className="title">Freelance Projects</h3>
+      </Row>
 
       <Row>
         <Col xs="5">
