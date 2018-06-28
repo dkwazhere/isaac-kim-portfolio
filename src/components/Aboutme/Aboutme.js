@@ -27,7 +27,7 @@ class Aboutme extends Component {
                                 <img src={aboutmepic}></img>
                             </div>
                         </Col>
-                        <Col sm="4">
+                        <Col sm="3">
                             <div className='aboutme-text'>
                                 Isaac, a recent graduate from University of California, Davis, is a graphic designer who strives for excellence and growth. He currently resides in Los Angeles, California.
                                 <br />

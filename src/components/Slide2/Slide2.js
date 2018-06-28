@@ -10,15 +10,16 @@ import veins from "../../images/Freelance Projects/veins logo name.png";
 import veinsheart from "../../images/Freelance Projects/VEINS heart logo.png";
 import veinsshirt from "../../images/Freelance Projects/veins t-shirt design.png";
 import Slide1 from "../../components/Slide1";
+import "./Slide2.css";
 
 var fn = function () {
-    /* do you want */  
+    /* do you want */
   }
 
 class Slide2 extends Component {
     constructor(props) {
         super(props);
-    
+
         this.state = {
           active: 0
         };
@@ -26,8 +27,8 @@ class Slide2 extends Component {
 
     render() {
         return (
-            <div>
-                <h1>Freelance Projects</h1>
+            <div className="slide-two">
+                <h1 className="freelance-div">Freelance Projects</h1>
                  <Coverflow
           width={960}
           height={350}

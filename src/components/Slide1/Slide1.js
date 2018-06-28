@@ -15,21 +15,22 @@ import backBC from "../../images/Freelance Projects/BC back2.png";
 import veins from "../../images/Freelance Projects/veins logo name.png";
 import veinsheart from "../../images/Freelance Projects/VEINS heart logo.png";
 import veinsshirt from "../../images/Freelance Projects/veins t-shirt design.png";
+import "./Slide1.css";
 
 var fn = function () {
-    /* do you want */  
+    /* do you want */
   }
 
 class Slide1 extends Component {
     constructor(props) {
         super(props);
-    
+
         this.state = {
           active: 0
         };
       }
 
-      
+
 
       _handleClick() {
         var num = Math.floor(Math.random() * 10 + 1);
@@ -39,8 +40,8 @@ class Slide1 extends Component {
       }
 
       render () {
-          return ( 
-              <div>
+          return (
+              <div className="slide-div">
                   <h1>Academic Projects</h1>
                   <Coverflow
           width={960}

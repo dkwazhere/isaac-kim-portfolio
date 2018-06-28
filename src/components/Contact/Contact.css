@@ -2,6 +2,18 @@
 .contact-pic img {
     width: 250px;
     height: 300px;
-    float: left;
-    margin-left: 28%;
+
+}
+
+.contact-pic {
+    padding-left: 33%;
+    padding-top: 3%;
+}
+
+.aboutme {
+    padding-top: 10%;
+}
+
+.aboutme-text {
+    padding-left: 33%;
 }

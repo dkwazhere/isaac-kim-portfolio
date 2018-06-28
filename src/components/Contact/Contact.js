@@ -9,12 +9,12 @@ class Contact extends Component {
         return(
             <Container className='aboutme'>
                 <Row>
-                    <h1>
+                    <h1 className="aboutme-text">
                         Isaac Kim
                     </h1>
                 </Row>
                 <Row>
-                    <h3 className='header-three'>
+                    <h3 className='aboutme-text'>
                         Contact
                     </h3>
                 </Row>
@@ -24,7 +24,7 @@ class Contact extends Component {
                             <img src={contactpic}></img>
                         </div>
                     </Col>
-                    <Col sm="6">
+                    <Col sm="3">
                     <div className='aboutme-text'>
                             <h4>Let's get in touch.</h4>
                             <br />
