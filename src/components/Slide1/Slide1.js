@@ -42,7 +42,7 @@ class Slide1 extends Component {
       render () {
           return (
               <div className="slide-div">
-                  <h1>Academic Projects</h1>
+                  <h1 className="academic">Academic Projects</h1>
                   <Coverflow
           width={960}
           height={350}

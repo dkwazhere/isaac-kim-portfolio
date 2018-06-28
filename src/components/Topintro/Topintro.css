@@ -7,8 +7,17 @@
 
 .about-me {
     text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .picture-container {
     padding-bottom: 10%;
+}
+
+.name {
+    font-size: 77px;
+}
+
+.job {
+    font-size: 40px;
 }
