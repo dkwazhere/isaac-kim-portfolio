@@ -5,3 +5,18 @@
 .academic {
     font-family: 'Nunito Sans', sans-serif;
 }
+
+.slide-modal {
+    position:absolute;
+    z-index: 2;
+}
+
+#eazye {
+    height: 300px;
+    width: 300px;
+}
+
+#VL {
+    height: 200px;
+    width:200px;
+}
