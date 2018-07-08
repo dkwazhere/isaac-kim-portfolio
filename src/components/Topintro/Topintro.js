@@ -6,14 +6,22 @@ import { Col, Row, Container } from "reactstrap";
 const Topintro = () => {
     return (
         <Container className="topintro-container">
+          <div className="topintro-area">
             <Row>
-                <Col sm="12">
-                    <div className="about-me">
-                        <h1 className="name">Isaac Kim</h1>
-                        <h2 className="job">Graphic Designer</h2>
-                    </div>
-                </Col>
+              <Col xs="10">
+                <a className="aboutme-name">
+                    Isaac Kim
+                </a>
+              </Col>
             </Row>
+            <Row>
+              <Col xs="10">
+                <a className='aboutme-text'>
+                    Graphic Designer
+                </a>
+              </Col>
+            </Row>
+            </div>
             <Row>
                 <Col sm="12">
                     <div className="picture-container">

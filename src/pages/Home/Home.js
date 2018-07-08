@@ -30,7 +30,7 @@ class Home extends Component {
 
   render() {
     return (
-      <div className="scrollspy-main">
+      <div className="home">
         <div className="ss-nav">
           <Scrollspy items={ ['section-1', 'section-2', 'section-3', 'section-4', 'section-5'] } currentClassName="is-current">
             <a className="navbar-item" href="#section-1"> Home  </a>

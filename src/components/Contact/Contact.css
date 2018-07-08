@@ -1,7 +1,7 @@
 
 .contact-pic img {
-    width: 250px;
-    height: 300px;
+    width: 350px;
+    height: 400px;
 
 }
 
@@ -11,10 +11,21 @@
 }
 
 .aboutme {
-    padding-top: 10%;
+    padding-top: 9%;
     font-family: 'Nunito Sans', sans-serif;
 }
 
 .aboutme-text {
     padding-left: 33%;
+    font-size: 14px;
+
+}
+
+.aboutme-name {
+  font-size: 68px;
+}
+
+.contact-area {
+  text-align: center;
+  padding-bottom: 5%;
 }

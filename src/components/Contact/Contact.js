@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+ import React, { Component } from "react";
 import "./Contact.css";
 import contactpic from "../../images/_MG_2737.png";
 import { Col, Row, Container } from "reactstrap";
@@ -8,23 +8,29 @@ class Contact extends Component {
     render() {
         return(
             <Container className='aboutme'>
+              <div className="contact-area">
                 <Row>
-                    <h1 className="aboutme-text">
+                  <Col xs="10">
+                    <a className="aboutme-name">
                         Isaac Kim
-                    </h1>
+                    </a>
+                  </Col>
                 </Row>
                 <Row>
-                    <h3 className='aboutme-text'>
+                  <Col xs="10">
+                    <a className='aboutme-text'>
                         Contact
-                    </h3>
+                    </a>
+                  </Col>
                 </Row>
+                </div>
                 <Row>
                     <Col sm="6">
                         <div className='contact-pic'>
                             <img src={contactpic}></img>
                         </div>
                     </Col>
-                    <Col sm="3">
+                    <Col sm="4">
                     <div className='aboutme-text'>
                             <h4>Let's get in touch.</h4>
                             <br />

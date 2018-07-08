@@ -13,6 +13,7 @@
 
 .picture-container {
     padding-bottom: 10%;
+    padding-left: 8%;
 }
 
 .name {
@@ -22,4 +23,10 @@
 
 .job {
     font-size: 40px;
+}
+
+.topintro-container {
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 9%;
 }
