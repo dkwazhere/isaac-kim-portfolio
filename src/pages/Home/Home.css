@@ -1,3 +1,16 @@
 .home {
     background-color: #D4D4D4;
 }
+
+
+.ss-nav ul a {
+  color: black;
+}
+
+.ss-nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  width: 100%;
+}

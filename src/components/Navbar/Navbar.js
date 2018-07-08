@@ -3,6 +3,7 @@ import './Navbar.css';
 import { Navbar, Nav, NavItem, MenuItem, NavDropdown} from "react-bootstrap";
 import image from '../../images/whitelogo.png';
 
+
 const Header = () => {
   return (
     <div className="navbar-main">
@@ -10,7 +11,7 @@ const Header = () => {
       <NavItem className="link" eventKey={1} href="/">
         Home
       </NavItem>
-      <NavItem className="link" eventKey={2} href="/about">
+      <NavItem className="link" eventKey={2} href="/aboutme">
         About
       </NavItem>
       <NavItem eventKey={3} href="#">
