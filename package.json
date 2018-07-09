@@ -2,6 +2,10 @@
   "name": "ikport",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "5.8.0",
+    "node": "8.9.1"
+  },
   "dependencies": {
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
