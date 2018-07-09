@@ -43,30 +43,30 @@ class Slide2 extends Component {
             role="menuitem"
             tabIndex="0"
           />
-          <img src={jepbyjep} alt="Album two" data-action="http://passer.cc" />
-          <img src={church} alt="Album three" data-action="https://doce.cc/" />
-          <img src={DJ} alt="Album four" data-action="http://tw.yahoo.com" />
-          <img src={via} alt="Album five" data-action="http://www.bbc.co.uk" />
-          <img src={frontBC} alt="Album six" data-action="https://medium.com" />
+          <img src={jepbyjep} alt="Album two" data-action="/gallery" />
+          <img src={church} alt="Album three" data-action="/gallery" />
+          <img src={DJ} alt="Album four" data-action="/gallery" />
+          <img src={via} alt="Album five" data-action="/gallery" />
+          <img src={frontBC} alt="Album six" data-action="/gallery" />
           <img
             src={backBC}
             alt="Album seven"
-            data-action="http://www.google.com"
+            data-action="/gallery"
           />
           <img
             src={veins}
             alt="Album one"
-            data-action="https://facebook.github.io/react/"
+            data-action="/gallery"
           />
           <img
             src={veinsheart}
             alt="Album two"
-            data-action="http://passer.cc"
+            data-action="/gallery"
           />
           <img
             src={veinsshirt}
             alt="Album three"
-            data-action="https://doce.cc/"
+            data-action="/gallery"
           />
         </Coverflow>
                 </div>

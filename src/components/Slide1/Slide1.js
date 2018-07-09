@@ -87,6 +87,7 @@ class Slide1 extends Component {
             <img
               src={eazye}
               alt="The Legacy of Eazy-E Advertisement"
+              data-action="/gallery"
               onClick={this.openModal}
               height={225}
             />
@@ -109,7 +110,7 @@ class Slide1 extends Component {
             <img
               src={tupac}
               alt="2Pac To Live & Die in LA Album Design"
-              data-action="#"
+              data-action="/gallery"
               onClick={this.openModal}
               height={150}
               width={200}
@@ -129,8 +130,8 @@ class Slide1 extends Component {
           </div>
 
           <div>
-            <img src={VL} alt="Visual Langauge Typography" height={200} width={200} onClick={this.openModal} data-action="" />
-            
+            <img src={VL} alt="Visual Langauge Typography" height={200} width={200} onClick={this.openModal} data-action="/gallery" />
+
             <Modal
               isOpen={this.state.modalIsOpen}
               onAfterOpen={this.afterOpenModal}
@@ -149,21 +150,21 @@ class Slide1 extends Component {
           <img
             src={marlboro}
             alt="Nipsey Hussle Crenshaw Cigarette Box"
-            data-action="#"
+            data-action="/gallery"
             onClick={this.openModal}
 
           />
           <img
             src={redcrenshaw}
             alt="Nipsey Hussle Crenshaw Mixtape Poster"
-            data-action="#"
+            data-action="/gallery"
             onClick={this.openModal}
 
           />
           <img
             src={crenshaw}
             alt="Nipsey Hussle Crenshaw Masked Poster"
-            data-action="#"
+            data-action="/gallery"
             onClick={this.openModal}
           />
         </Coverflow>
