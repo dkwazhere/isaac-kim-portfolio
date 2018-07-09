@@ -25,6 +25,7 @@ import veinsshirt from "../../images/Freelance Projects/veins t-shirt design.png
 import Slide1 from "../../components/Slide1";
 import Slide2 from "../../components/Slide2";
 import Scrollspy from 'react-scrollspy'
+import image from '../../images/whitelogo.png';
 
 class Home extends Component {
 
@@ -33,11 +34,11 @@ class Home extends Component {
       <div className="home">
         <div className="ss-nav">
           <Scrollspy items={ ['section-1', 'section-2', 'section-3', 'section-4', 'section-5'] } currentClassName="is-current">
-            <a className="navbar-item" href="#section-1"> Home  </a>
-            <a className="navbar-item" href="#section-2"> About Me  </a>
-            <a className="navbar-item" href="#section-3">   </a>
-            <a className="navbar-item" href="#section-4"> Projects  </a>
-            <a className="navbar-item" href="#section-5"> Contact  </a>
+            <li><a className="navbar-home" href="#section-1"> Home  </a></li>
+            <li><a className="navbar-about" href="#section-2"> About Me  </a></li>
+            <li><a className="navbar-logo" href="#section-3"><img className="logo-img" src={image}></img></a></li>
+            <li><a className="navbar-projects" href="#section-4"> Projects  </a></li>
+            <li><a className="navbar-contact" href="#section-5"> Contact  </a></li>
           </Scrollspy>
         </div>
 
