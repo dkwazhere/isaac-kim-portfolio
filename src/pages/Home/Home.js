@@ -34,7 +34,7 @@ class Home extends Component {
       <div className="home">
         <div className="ss-nav">
           <Scrollspy items={ ['section-1', 'section-2', 'section-3', 'section-4', 'section-5'] } currentClassName="is-current">
-            <li><a className="navbar-home" href="#section-1"> Home  </a></li>
+            <li><a className="navbar-home" href="#Home"> Home  </a></li>
             <li><a className="navbar-about" href="#section-2"> About Me  </a></li>
             <li><a className="navbar-logo" href="#section-3"><img className="logo-img" src={image}></img></a></li>
             <li><a className="navbar-projects" href="#section-4"> Projects  </a></li>
@@ -43,7 +43,7 @@ class Home extends Component {
         </div>
 
       <div className="container-page">
-        <section id="section-1"><Topintro /></section>
+        <section id="Home"><Topintro /></section>
         <section id="section-2"><Aboutme /></section>
         <section id="section-4"><Slide1 /></section>
         <section id="section-4"><Slide2 /></section>

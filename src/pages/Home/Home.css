@@ -26,13 +26,33 @@
 }
 
 .ss-nav li a {
-  font-size: 24px;
+  font-size: 35px;
   display: inline-block;
   padding-left: 4%;
   padding-right: 4%;
-  padding-top: .65%;
+  padding-top: .2%;
   text-decoration: none;
   float: left;
   position: relative;
-  left: 23%;
+  left: 18%;
+}
+
+.navbar-home {
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-about {
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-projects {
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-contact {
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-logo {
+  margin-top: .6%;
 }

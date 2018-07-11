@@ -5,7 +5,7 @@ import tupac from "../../images/School Projects/tupac.jpg";
 import VL from "../../images/School Projects/visuallanguage.jpg";
 import marlboro from "../../images/School Projects/marlboror.jpg";
 import redcrenshaw from "../../images/School Projects/redcrenshaw.jpg";
-import crenshaw from "../../images/School Projects/final crenshaw.png";
+import crenshaw from "../../images/School Projects/nipsey.jpg";
 import jepbyjep from "../../images/Freelance Projects/JEPbyJEP logo.png";
 import church from "../../images/Freelance Projects/church logo.png";
 import DJ from "../../images/Freelance Projects/dj hvff logo.png";
