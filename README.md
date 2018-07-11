@@ -21,3 +21,7 @@ A step by step series of how to install the application.
 -Git clone https://github.com/dkwazhere/isaac-kim-portfolio.git
 -Open Terminal/Gitbash
 -Type "yarn start" in the root of the directory.
+
+## Live demo
+Here is a live demo that is up on heroku.
+https://isaac-kim.herokuapp.com/
