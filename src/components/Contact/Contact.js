@@ -31,7 +31,7 @@ class Contact extends Component {
                         </div>
                     </Col>
                     <Col sm="4">
-                    <div className='aboutme-text'>
+                    <div className='aboutme-section'>
                             <h4>Let's get in touch.</h4>
                             <br />
                             <br />

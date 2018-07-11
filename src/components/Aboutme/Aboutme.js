@@ -18,7 +18,7 @@ class Aboutme extends Component {
                 <Row>
                   <Col xs="10">
                     <a className='aboutme-text'>
-                        Contact
+
                     </a>
                   </Col>
                 </Row>
@@ -30,7 +30,7 @@ class Aboutme extends Component {
                             </div>
                         </Col>
                         <Col sm="4">
-                            <div className='aboutme-text'>
+                            <div className='aboutme-section'>
                                 Isaac, a recent graduate from University of California, Davis, is a graphic designer who strives for excellence and growth. He currently resides in Los Angeles, California.
                                 <br />
                                 <br />

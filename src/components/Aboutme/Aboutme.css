@@ -20,8 +20,10 @@
     font-family: 'Nunito Sans', sans-serif;
 }
 
-.aboutme-text {
+.aboutme-section {
   font-size: 16px;
+  font-family: 'Didact Gothic', sans-serif;
+  padding-top: 4%;
 }
 
 .aboutme-area {
