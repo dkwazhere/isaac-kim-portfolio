@@ -43,7 +43,7 @@ class Contact extends Component {
                             <br />
                             <br />
                             <h4 className="contact-bottom">LinkedIn</h4>
-                            www.linkedin.com/in/designerisaackim
+                            www.linkedin.com/in/isaackim1027
                         </div>
                     </Col>
                 </Row>
