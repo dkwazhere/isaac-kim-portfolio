@@ -39,11 +39,11 @@ class Contact extends Component {
                             <br />
                             <br />
                             <h4>Email</h4>
-                            ikims1027@gmail.com
+                            <a className="email" href="mailto:ikims1027@gmail.com">ikims1027@gmail.com</a>
                             <br />
                             <br />
                             <h4 className="contact-bottom">LinkedIn</h4>
-                            www.linkedin.com/in/isaackim1027
+                            <a className="linkedin" href="https://linkedin.com/in/designerisaackim">https://linkedin.com/in/designerisaackim</a>
                         </div>
                     </Col>
                 </Row>
